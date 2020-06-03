@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/four-card-feature/static/css/main.8a89b5c0.chunk.css",
+    "main.js": "/four-card-feature/static/js/main.e79df2a8.chunk.js",
+    "main.js.map": "/four-card-feature/static/js/main.e79df2a8.chunk.js.map",
+    "runtime-main.js": "/four-card-feature/static/js/runtime-main.2c58974d.js",
+    "runtime-main.js.map": "/four-card-feature/static/js/runtime-main.2c58974d.js.map",
+    "static/js/2.306f52eb.chunk.js": "/four-card-feature/static/js/2.306f52eb.chunk.js",
+    "static/js/2.306f52eb.chunk.js.map": "/four-card-feature/static/js/2.306f52eb.chunk.js.map",
+    "index.html": "/four-card-feature/index.html",
+    "precache-manifest.8f3819c894def6304d6777330f18a718.js": "/four-card-feature/precache-manifest.8f3819c894def6304d6777330f18a718.js",
+    "service-worker.js": "/four-card-feature/service-worker.js",
+    "static/css/main.8a89b5c0.chunk.css.map": "/four-card-feature/static/css/main.8a89b5c0.chunk.css.map",
+    "static/js/2.306f52eb.chunk.js.LICENSE.txt": "/four-card-feature/static/js/2.306f52eb.chunk.js.LICENSE.txt",
+    "static/media/icon-calculator.svg": "/four-card-feature/static/media/icon-calculator.8e4a5574.svg",
+    "static/media/icon-karma.svg": "/four-card-feature/static/media/icon-karma.ae2dc13d.svg",
+    "static/media/icon-supervisor.svg": "/four-card-feature/static/media/icon-supervisor.8f7824b3.svg",
+    "static/media/icon-team-builder.svg": "/four-card-feature/static/media/icon-team-builder.8a1a6a17.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c58974d.js",
+    "static/js/2.306f52eb.chunk.js",
+    "static/css/main.8a89b5c0.chunk.css",
+    "static/js/main.e79df2a8.chunk.js"
+  ]
+}
